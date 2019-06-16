@@ -1,1 +1,2 @@
-# Analise-de-latrocinios-no-Estado-de-S-o-Paulo-
+# Dados tirados do http://www.ssp.sp.gov.br/transparenciassp/
+Nos análisamos os dados de latrocínio em todo Estado de São Paulo do mês de Janeiro de 2019, notamos que houve um problema no armazenamento deste dados que estavam senso registrados duplicados, de acordo com a nossa análise vimos que no mês de janeiro a cidade que mais possuía latrocínios era a cidade de Poá que possuí 100 mil habitantes ficando atrás de São Paulo, assim notamos um erro e análisamos esse erro no armazenamento
